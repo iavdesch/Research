@@ -1,1 +1,15 @@
 Readme
+======
+
+The supporting datafiles are related to the paper "Calculation of steel stresses in cracked reinforced rectangular concrete elements loaded in bending".
+
+Warning:
+When using this notebook, you should cite, besides this notebook, you should cite two papers:
+
+1) Calculation of steel stresses in cracked reinforced rectangular concrete elements loaded in bending
+This is the paper related to this notebook.
+
+2) Crack Monitoring in Reinforced Concrete Beams by Distributed Optical Fiber Sensors, please cite it as:
+-Carlos G. Berrocal, Ignasi Fernandez & Rasmus Rempling (2021) Crack monitoring in reinforced concrete beams by distributed optical fiber sensors, Structure and Infrastructure Engineering, 17:1, 124-139, DOI: 10.1080/15732479.2020.1731558
+
+The latter paper contained has data files that were used in this notebook.
