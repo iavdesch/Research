@@ -4,7 +4,7 @@ Readme
 The supporting datafiles are related to the paper "Calculation of steel stresses in cracked reinforced rectangular concrete elements loaded in bending".
 
 Warning:
-When using this notebook, containing the source code, you should cite, besides this notebook, you should cite two papers:
+When using this notebook, containing the source code, you should cite, besides this notebook:
 
 1) Calculation of steel stresses in cracked reinforced rectangular concrete elements loaded in bending
 This is the paper related to this notebook.
